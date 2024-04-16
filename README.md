@@ -4,6 +4,7 @@
 ## Andrew Amilcar ara129@pitt.edu
 - Crime and Traffic
 ## Ahnmad Mamnoon
+- Housing Prices
 
 # DATASETS USED
 --- 
@@ -12,3 +13,6 @@ https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6d
 
 https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 - Description: "Arrest data contains information on people taken into custody by City of Pittsburgh police officers. More serious crimes such as felony offenses are more likely to result in an arrest. However, arrests can occur as a result of other offenses, such as parole violations or a failure to appear for trial. All data is reported at the block/intersection level, with the exception of sex crimes, which are reported at the police zone level."
+
+
+- 
