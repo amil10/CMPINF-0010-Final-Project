@@ -3,7 +3,7 @@
 ---
 ## Andrew Amilcar ara129@pitt.edu
 - Crime and Traffic
-## Ahnmad Mamnoon
+## Ahnmad Mamnoon asm299@pit.edu
 - Housing Prices
 
 # DATASETS USED
@@ -14,5 +14,6 @@ https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6d
 https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 - Description: "Arrest data contains information on people taken into custody by City of Pittsburgh police officers. More serious crimes such as felony offenses are more likely to result in an arrest. However, arrests can occur as a result of other offenses, such as parole violations or a failure to appear for trial. All data is reported at the block/intersection level, with the exception of sex crimes, which are reported at the police zone level."
 
+https://data.wprdc.org/dataset/pgh/resource/9890875b-c1d1-4e64-8fc9-a4a8dc433745
+- Description: This Housing data set is a central hub containing detailed records of property values across Pittsburgh's neighborhoods. It provides valuable insights into real estate metrics like median home values, sale prices, and market trends. This resource supports informed decision-making for property investments, neighborhood comparisons, and urban planning efforts, contributing to a better understanding of Pittsburgh's housing market dynamics.
 
-- 
